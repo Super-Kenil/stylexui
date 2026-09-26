@@ -1,5 +1,5 @@
 {
-  "name": "stylexui",
+  "name": "stylex-cli",
   "version": "0.0.1",
   "bin": {
     "stylexui": "./bin/index.js"
